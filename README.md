@@ -33,8 +33,6 @@ Se XP for maior ou igual a 10.001 = Radiante
 
 ## Saída
 
-[!IMPORTANT]
-
 Ao final deve se exibir uma mensagem:
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
 
@@ -64,7 +62,6 @@ Se vitórias for maior ou igual a 101 = Imortal
 
 ## Saída
 
-[!IMPORTANT]
 
 Ao final deve se exibir uma mensagem:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
@@ -102,8 +99,6 @@ se monge -> no ataque exibir (usou artes marciais)
 se ninja -> no ataque exibir (usou shuriken)
 
 ## Saída
-
-[!IMPORTANT]
 
 Ao final deve se exibir uma mensagem:
 
