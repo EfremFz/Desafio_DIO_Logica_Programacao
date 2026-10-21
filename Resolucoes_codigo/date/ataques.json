@@ -1,0 +1,8 @@
+{
+  "classes_ataque": {
+    "mago": "usou magia",
+    "guerreiro": "usou espada",
+    "monge": "usou artes marciais",
+    "ninja": "usou shuriken"
+  }
+}
